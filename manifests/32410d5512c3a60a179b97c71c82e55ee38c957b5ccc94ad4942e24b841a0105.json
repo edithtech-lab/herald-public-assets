@@ -1,0 +1,138 @@
+{
+  "version": 1,
+  "release_sha256": "32410d5512c3a60a179b97c71c82e55ee38c957b5ccc94ad4942e24b841a0105",
+  "campaigns": [
+    {
+      "campaign_id": "corkagehere-first-guide-20261007-v2",
+      "service_id": "corkagehere",
+      "title": "콜키지 프리, 방문 전에 확인할 세 가지",
+      "disclosure": "여기콜키지 서비스 안내",
+      "media": [
+        {
+          "path": "assets/corkagehere-first-guide-20261007-v2/427fb34a1cd96e7c5cec310f4b970baf963af2b4c4dd11887f4317a98515fac5.jpg",
+          "sha256": "427fb34a1cd96e7c5cec310f4b970baf963af2b4c4dd11887f4317a98515fac5",
+          "bytes": 98124,
+          "content_type": "image/jpeg",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "path": "assets/corkagehere-first-guide-20261007-v2/dc822cdb3d4928d7f19a5f375651f43fef753ad533559577e81da6e5e45ae29d.jpg",
+          "sha256": "dc822cdb3d4928d7f19a5f375651f43fef753ad533559577e81da6e5e45ae29d",
+          "bytes": 105968,
+          "content_type": "image/jpeg",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "path": "assets/corkagehere-first-guide-20261007-v2/38edf53e9b2d14c5d471cae0472a47c3ab5ed00ca5284bca5e3912e7659afbbf.jpg",
+          "sha256": "38edf53e9b2d14c5d471cae0472a47c3ab5ed00ca5284bca5e3912e7659afbbf",
+          "bytes": 107800,
+          "content_type": "image/jpeg",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "path": "assets/corkagehere-first-guide-20261007-v2/55734bd956e71ffbd793f342649d6ad0e7ed1b97331dcba33ae15696f5139ed4.mp4",
+          "sha256": "55734bd956e71ffbd793f342649d6ad0e7ed1b97331dcba33ae15696f5139ed4",
+          "bytes": 115472,
+          "content_type": "video/mp4",
+          "width": 1080,
+          "height": 1920
+        }
+      ]
+    },
+    {
+      "campaign_id": "godnyotti-first-guide-20261007-v2",
+      "service_id": "godnyotti",
+      "title": "체결 기록에서 알 수 있는 것과 없는 것",
+      "disclosure": "갓뇨띠 서비스 안내",
+      "media": [
+        {
+          "path": "assets/godnyotti-first-guide-20261007-v2/ae00846ea6aefa097dac952df2c10b0db7663325ac1e97dbefb991b9628f0a40.jpg",
+          "sha256": "ae00846ea6aefa097dac952df2c10b0db7663325ac1e97dbefb991b9628f0a40",
+          "bytes": 99907,
+          "content_type": "image/jpeg",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "path": "assets/godnyotti-first-guide-20261007-v2/8437d62ed96bb8efc61e9606c243d6d3b998b34cf59259bb4c1821a44e19b77e.jpg",
+          "sha256": "8437d62ed96bb8efc61e9606c243d6d3b998b34cf59259bb4c1821a44e19b77e",
+          "bytes": 101193,
+          "content_type": "image/jpeg",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "path": "assets/godnyotti-first-guide-20261007-v2/d0f89153da05f1fd172310cf7b30d5277d819e73ff6bf2604cd62d421646d9d6.jpg",
+          "sha256": "d0f89153da05f1fd172310cf7b30d5277d819e73ff6bf2604cd62d421646d9d6",
+          "bytes": 107273,
+          "content_type": "image/jpeg",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "path": "assets/godnyotti-first-guide-20261007-v2/039b2d2fa6764e8fd2cdbc09badd188db9a6121387dbb44c955119339ff81e4d.mp4",
+          "sha256": "039b2d2fa6764e8fd2cdbc09badd188db9a6121387dbb44c955119339ff81e4d",
+          "bytes": 111200,
+          "content_type": "video/mp4",
+          "width": 1080,
+          "height": 1920
+        }
+      ]
+    },
+    {
+      "campaign_id": "edithnaming-fact-check-20261007-v2",
+      "service_id": "edithnaming",
+      "title": "상품명 가공 전, 수량과 규격부터 확인하세요",
+      "disclosure": "이디스네이밍 서비스 안내",
+      "media": [
+        {
+          "path": "assets/edithnaming-fact-check-20261007-v2/c89ad272f321d1b8d6cf2860805258154063f0134d491fa8885896e59f954b83.jpg",
+          "sha256": "c89ad272f321d1b8d6cf2860805258154063f0134d491fa8885896e59f954b83",
+          "bytes": 95093,
+          "content_type": "image/jpeg",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "path": "assets/edithnaming-fact-check-20261007-v2/00290ee5d3661e6d95d8b22293455bd9bf679770ec6810d2675a512320ae1909.jpg",
+          "sha256": "00290ee5d3661e6d95d8b22293455bd9bf679770ec6810d2675a512320ae1909",
+          "bytes": 105983,
+          "content_type": "image/jpeg",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "path": "assets/edithnaming-fact-check-20261007-v2/9364aea60f7ed9821f2b75652bd3680a52d8eb1ecc25353a128581d046f3b9cb.jpg",
+          "sha256": "9364aea60f7ed9821f2b75652bd3680a52d8eb1ecc25353a128581d046f3b9cb",
+          "bytes": 109428,
+          "content_type": "image/jpeg",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "path": "assets/edithnaming-fact-check-20261007-v2/e2893d261a67d4a1fb435606d958649fff0a3d4ac14f3d91db263c50d1a2811c.jpg",
+          "sha256": "e2893d261a67d4a1fb435606d958649fff0a3d4ac14f3d91db263c50d1a2811c",
+          "bytes": 104750,
+          "content_type": "image/jpeg",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "path": "assets/edithnaming-fact-check-20261007-v2/cdf52c611b46d901ab6ce4e64f481ef4aa5e6345f1e773d6de0e7a3bae64b8f4.mp4",
+          "sha256": "cdf52c611b46d901ab6ce4e64f481ef4aa5e6345f1e773d6de0e7a3bae64b8f4",
+          "bytes": 146662,
+          "content_type": "video/mp4",
+          "width": 1080,
+          "height": 1920
+        }
+      ]
+    }
+  ],
+  "purpose": "reviewed_public_media_distribution",
+  "sns_publications": [],
+  "platform_ingestion_verified": false,
+  "additional_external_spend_krw": 0
+}
